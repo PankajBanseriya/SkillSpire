@@ -46,3 +46,14 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Ignore node_modules everywhere
+node_modules/
+
+# Ignore all .env files
+*.env
+
+# Optional: OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
