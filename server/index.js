@@ -25,7 +25,7 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(
     cors({
-        origin: "https://skill-spire-vert.vercel.app",
+        origin: "*",
         credentials: true,
         allowedHeaders: ["Content-Type", "Authorization"],
         methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],

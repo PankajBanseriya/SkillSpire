@@ -172,7 +172,7 @@ const Footer = () => {
             })}
           </div>
 
-          <div className="text-center mt-2 @min-xs:mt-0">© 2025 SkillSpire. Built with ❤️ by <Link to={"https://github.com/PankajBanseriya"} className="text-richblack-50 transition-all duration-200 hover:underline">Pankaj Banseriya</Link>.</div>
+          <div className="text-center mt-2 @min-xs:mt-0">© 2026 SkillSpire. Built with ❤️ by <Link to={"https://github.com/PankajBanseriya"} className="text-richblack-50 transition-all duration-200 hover:underline">Pankaj Banseriya</Link>.</div>
         </div>
       </div>
     </div>
